@@ -1,0 +1,96 @@
+transaction_id,date,amount,category,description,transaction_type,merchant,account_type
+TXN001,2024-01-01,125.50,Groceries,Whole Foods Market purchase,expense,Whole Foods Market,checking
+TXN002,2024-01-01,45.00,Transportation,Uber ride to airport,expense,Uber,checking
+TXN003,2024-01-01,2500.00,Income,Salary deposit,income,Employer Inc,checking
+TXN004,2024-01-02,89.99,Entertainment,Netflix annual subscription,expense,Netflix,credit_card
+TXN005,2024-01-02,15.50,Food & Dining,Starbucks coffee and breakfast,expense,Starbucks,credit_card
+TXN006,2024-01-02,75.00,Healthcare,Pharmacy prescription,expense,CVS Pharmacy,checking
+TXN007,2024-01-03,200.00,Utilities,Electricity bill payment,expense,Power Company,checking
+TXN008,2024-01-03,45.00,Transportation,Gas station fill-up,expense,Shell Gas Station,credit_card
+TXN009,2024-01-03,120.00,Shopping,Amazon online purchase,expense,Amazon,credit_card
+TXN010,2024-01-04,65.00,Food & Dining,Restaurant dinner,expense,Olive Garden,credit_card
+TXN011,2024-01-04,25.00,Entertainment,Movie tickets,expense,AMC Theaters,credit_card
+TXN012,2024-01-04,150.00,Shopping,Clothing store purchase,expense,Nike Store,credit_card
+TXN013,2024-01-05,85.00,Groceries,Supermarket shopping,expense,Safeway,checking
+TXN014,2024-01-05,30.00,Transportation,Public transit pass,expense,Metro Transit,checking
+TXN015,2024-01-05,500.00,Savings,Transfer to savings account,transfer,Internal Transfer,savings
+TXN016,2024-01-06,95.00,Healthcare,Doctor appointment copay,expense,Medical Center,checking
+TXN017,2024-01-06,40.00,Food & Dining,Takeout dinner,expense,Dominos Pizza,credit_card
+TXN018,2024-01-06,180.00,Shopping,Electronics purchase,expense,Best Buy,credit_card
+TXN019,2024-01-07,55.00,Entertainment,Gym membership,expense,Planet Fitness,checking
+TXN020,2024-01-07,35.00,Food & Dining,Coffee and snacks,expense,Dunkin Donuts,credit_card
+TXN021,2024-01-08,1200.00,Rent,Housing rent payment,expense,Property Management,checking
+TXN022,2024-01-08,85.00,Groceries,Weekly grocery shopping,expense,Trader Joes,checking
+TXN023,2024-01-08,60.00,Transportation,Car maintenance,expense,Jiffy Lube,credit_card
+TXN024,2024-01-09,45.00,Food & Dining,Lunch with colleagues,expense,Chipotle,credit_card
+TXN025,2024-01-09,200.00,Shopping,Home improvement store,expense,Home Depot,credit_card
+TXN026,2024-01-09,75.00,Entertainment,Concert tickets,expense,Ticketmaster,credit_card
+TXN027,2024-01-10,95.00,Healthcare,Dental cleaning,expense,Dental Office,checking
+TXN028,2024-01-10,40.00,Food & Dining,Food delivery,expense,DoorDash,credit_card
+TXN029,2024-01-10,150.00,Shopping,Online clothing purchase,expense,Zara,credit_card
+TXN030,2024-01-11,65.00,Groceries,Organic food store,expense,Sprouts Farmers Market,checking
+TXN031,2024-01-11,25.00,Transportation,Parking fee,expense,Parking Garage,checking
+TXN032,2024-01-11,120.00,Entertainment,Sports event tickets,expense,Stadium Box Office,credit_card
+TXN033,2024-01-12,85.00,Food & Dining,Fine dining restaurant,expense,The French Laundry,credit_card
+TXN034,2024-01-12,300.00,Shopping,Furniture purchase,expense,IKEA,credit_card
+TXN035,2024-01-12,50.00,Utilities,Internet bill,expense,Comcast,checking
+TXN036,2024-01-13,75.00,Groceries,Farmer's market,expense,Local Farmers Market,checking
+TXN037,2024-01-13,45.00,Transportation,Ride sharing service,expense,Lyft,credit_card
+TXN038,2024-01-13,180.00,Entertainment,Theme park tickets,expense,Disneyland,credit_card
+TXN039,2024-01-14,110.00,Healthcare,Specialist appointment,expense,Medical Specialist,checking
+TXN040,2024-01-14,35.00,Food & Dining,Quick service restaurant,expense,McDonald's,credit_card
+TXN041,2024-01-14,250.00,Shopping,Department store,expense,Macy's,credit_card
+TXN042,2024-01-15,90.00,Groceries,Wholesale club,expense,Costco,checking
+TXN043,2024-01-15,60.00,Transportation,Car wash and detailing,expense,Car Wash Express,credit_card
+TXN044,2024-01-15,95.00,Entertainment,Bowling and arcade,expense,Bowling Alley,credit_card
+TXN045,2024-01-16,70.00,Food & Dining,Food truck lunch,expense,Taco Truck,credit_card
+TXN046,2024-01-16,400.00,Shopping,Electronics upgrade,expense,Apple Store,credit_card
+TXN047,2024-01-16,80.00,Utilities,Water bill,expense,Water Department,checking
+TXN048,2024-01-17,100.00,Groceries,Specialty food store,expense,Whole Foods Market,checking
+TXN049,2024-01-17,55.00,Transportation,Bike share membership,expense,Bike Share Program,checking
+TXN050,2024-01-17,150.00,Entertainment,Comedy club tickets,expense,Comedy Club,credit_card
+TXN051,2024-01-18,85.00,Healthcare,Pharmacy refill,expense,Walgreens,checking
+TXN052,2024-01-18,50.00,Food & Dining,Food court lunch,expense,Mall Food Court,credit_card
+TXN053,2024-01-18,200.00,Shopping,Bookstore purchase,expense,Barnes & Noble,credit_card
+TXN054,2024-01-19,75.00,Groceries,Convenience store,expense,7-Eleven,checking
+TXN055,2024-01-19,40.00,Transportation,Bus fare,expense,Public Transit,checking
+TXN056,2024-01-19,120.00,Entertainment,Museum admission,expense,Natural History Museum,credit_card
+TXN057,2024-01-20,95.00,Food & Dining,Brunch with friends,expense,Brunch Cafe,credit_card
+TXN058,2024-01-20,350.00,Shopping,Outdoor gear store,expense,REI,credit_card
+TXN059,2024-01-20,65.00,Utilities,Phone bill,expense,Verizon,checking
+TXN060,2024-01-21,80.00,Groceries,Local market,expense,Local Market,checking
+TXN061,2024-01-21,30.00,Transportation,Train ticket,expense,Amtrak,credit_card
+TXN062,2024-01-21,180.00,Entertainment,Zoo visit,expense,City Zoo,credit_card
+TXN063,2024-01-22,110.00,Healthcare,Physical therapy,expense,Physical Therapy Center,checking
+TXN064,2024-01-22,45.00,Food & Dining,Food delivery service,expense,Uber Eats,credit_card
+TXN065,2024-01-22,275.00,Shopping,Jewelry store,expense,Kay Jewelers,credit_card
+TXN066,2024-01-23,70.00,Groceries,Health food store,expense,Natural Grocers,checking
+TXN067,2024-01-23,50.00,Transportation,Taxi ride,expense,Yellow Cab,credit_card
+TXN068,2024-01-23,95.00,Entertainment,Arcade games,expense,Dave & Buster's,credit_card
+TXN069,2024-01-24,85.00,Food & Dining,Food truck dinner,expense,Taco Truck,credit_card
+TXN070,2024-01-24,450.00,Shopping,Appliance store,expense,Best Buy,credit_card
+TXN071,2024-01-24,75.00,Utilities,Gas bill,expense,Gas Company,checking
+TXN072,2024-01-25,95.00,Groceries,Supermarket run,expense,Kroger,checking
+TXN073,2024-01-25,35.00,Transportation,Parking meter,expense,City Parking,checking
+TXN074,2024-01-25,140.00,Entertainment,Aquarium visit,expense,SeaWorld,credit_card
+TXN075,2024-01-26,100.00,Healthcare,Optometrist appointment,expense,Eye Doctor,checking
+TXN076,2024-01-26,55.00,Food & Dining,Food court dinner,expense,Mall Food Court,credit_card
+TXN077,2024-01-26,325.00,Shopping,Pet store supplies,expense,PetSmart,credit_card
+TXN078,2024-01-27,65.00,Groceries,Convenience store,expense,Circle K,checking
+TXN079,2024-01-27,25.00,Transportation,Bike rental,expense,Bike Rental Shop,credit_card
+TXN080,2024-01-27,160.00,Entertainment,Concert tickets,expense,Live Nation,credit_card
+TXN081,2024-01-28,90.00,Food & Dining,Food delivery,expense,Grubhub,credit_card
+TXN082,2024-01-28,500.00,Shopping,Electronics store,expense,Micro Center,credit_card
+TXN083,2024-01-28,85.00,Utilities,Trash service,expense,Waste Management,checking
+TXN084,2024-01-29,75.00,Groceries,Local market,expense,Local Market,checking
+TXN085,2024-01-29,40.00,Transportation,Car rental,expense,Hertz,credit_card
+TXN086,2024-01-29,110.00,Entertainment,Theater tickets,expense,Broadway Theater,credit_card
+TXN087,2024-01-30,120.00,Healthcare,Specialist consultation,expense,Medical Specialist,checking
+TXN088,2024-01-30,50.00,Food & Dining,Food truck lunch,expense,Taco Truck,credit_card
+TXN089,2024-01-30,200.00,Shopping,Hardware store,expense,Ace Hardware,credit_card
+TXN090,2024-01-31,85.00,Groceries,Supermarket shopping,expense,Albertsons,checking
+TXN091,2024-01-31,30.00,Transportation,Public transit,expense,Metro Transit,checking
+TXN092,2024-01-31,175.00,Entertainment,Sports bar,expense,Sports Bar & Grill,credit_card
+TXN093,2024-01-31,95.00,Food & Dining,Restaurant dinner,expense,Red Lobster,credit_card
+TXN094,2024-01-31,300.00,Shopping,Department store,expense,Target,credit_card
+TXN095,2024-01-31,70.00,Utilities,Sewer bill,expense,Sewer Department,checking 

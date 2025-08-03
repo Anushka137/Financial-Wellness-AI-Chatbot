@@ -1,0 +1,224 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2024-01-15",
+      "amount": 45.50,
+      "category": "Food & Dining",
+      "description": "Grocery shopping at Walmart",
+      "type": "expense",
+      "tags": ["groceries", "essential"]
+    },
+    {
+      "id": 2,
+      "date": "2024-01-16",
+      "amount": 25.00,
+      "category": "Transportation",
+      "description": "Gas station",
+      "type": "expense",
+      "tags": ["fuel", "essential"]
+    },
+    {
+      "id": 3,
+      "date": "2024-01-17",
+      "amount": 120.00,
+      "category": "Entertainment",
+      "description": "Movie tickets and dinner",
+      "type": "expense",
+      "tags": ["entertainment", "social"]
+    },
+    {
+      "id": 4,
+      "date": "2024-01-18",
+      "amount": 85.00,
+      "category": "Shopping",
+      "description": "New clothes from Target",
+      "type": "expense",
+      "tags": ["clothing", "discretionary"]
+    },
+    {
+      "id": 5,
+      "date": "2024-01-19",
+      "amount": 3500.00,
+      "category": "Income",
+      "description": "Monthly salary",
+      "type": "income",
+      "tags": ["salary", "primary"]
+    },
+    {
+      "id": 6,
+      "date": "2024-01-20",
+      "amount": 65.00,
+      "category": "Food & Dining",
+      "description": "Restaurant dinner",
+      "type": "expense",
+      "tags": ["dining", "social"]
+    },
+    {
+      "id": 7,
+      "date": "2024-01-21",
+      "amount": 15.00,
+      "category": "Transportation",
+      "description": "Uber ride",
+      "type": "expense",
+      "tags": ["transport", "convenience"]
+    },
+    {
+      "id": 8,
+      "date": "2024-01-22",
+      "amount": 200.00,
+      "category": "Utilities",
+      "description": "Electricity bill",
+      "type": "expense",
+      "tags": ["utilities", "essential"]
+    },
+    {
+      "id": 9,
+      "date": "2024-01-23",
+      "amount": 150.00,
+      "category": "Healthcare",
+      "description": "Doctor visit",
+      "type": "expense",
+      "tags": ["health", "essential"]
+    },
+    {
+      "id": 10,
+      "date": "2024-01-24",
+      "amount": 50.00,
+      "category": "Food & Dining",
+      "description": "Coffee and snacks",
+      "type": "expense",
+      "tags": ["coffee", "daily"]
+    },
+    {
+      "id": 11,
+      "date": "2024-01-25",
+      "amount": 300.00,
+      "category": "Income",
+      "description": "Freelance project payment",
+      "type": "income",
+      "tags": ["freelance", "secondary"]
+    },
+    {
+      "id": 12,
+      "date": "2024-01-26",
+      "amount": 75.00,
+      "category": "Entertainment",
+      "description": "Netflix subscription",
+      "type": "expense",
+      "tags": ["subscription", "entertainment"]
+    },
+    {
+      "id": 13,
+      "date": "2024-01-27",
+      "amount": 40.00,
+      "category": "Food & Dining",
+      "description": "Lunch with colleagues",
+      "type": "expense",
+      "tags": ["dining", "social"]
+    },
+    {
+      "id": 14,
+      "date": "2024-01-28",
+      "amount": 100.00,
+      "category": "Shopping",
+      "description": "Books from Amazon",
+      "type": "expense",
+      "tags": ["books", "education"]
+    },
+    {
+      "id": 15,
+      "date": "2024-01-29",
+      "amount": 30.00,
+      "category": "Transportation",
+      "description": "Public transport pass",
+      "type": "expense",
+      "tags": ["transport", "monthly"]
+    }
+  ],
+  "budgets": {
+    "Food & Dining": {
+      "monthly_limit": 400.00,
+      "current_spent": 185.50,
+      "remaining": 214.50
+    },
+    "Transportation": {
+      "monthly_limit": 150.00,
+      "current_spent": 70.00,
+      "remaining": 80.00
+    },
+    "Entertainment": {
+      "monthly_limit": 200.00,
+      "current_spent": 195.00,
+      "remaining": 5.00
+    },
+    "Shopping": {
+      "monthly_limit": 300.00,
+      "current_spent": 185.00,
+      "remaining": 115.00
+    },
+    "Utilities": {
+      "monthly_limit": 250.00,
+      "current_spent": 200.00,
+      "remaining": 50.00
+    },
+    "Healthcare": {
+      "monthly_limit": 200.00,
+      "current_spent": 150.00,
+      "remaining": 50.00
+    }
+  },
+  "savings_goals": [
+    {
+      "id": 1,
+      "name": "Emergency Fund",
+      "target_amount": 5000.00,
+      "current_amount": 2500.00,
+      "deadline": "2024-06-30",
+      "description": "Emergency fund for unexpected expenses",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "name": "Vacation Fund",
+      "target_amount": 2000.00,
+      "current_amount": 800.00,
+      "deadline": "2024-08-15",
+      "description": "Summer vacation to Europe",
+      "priority": "medium"
+    },
+    {
+      "id": 3,
+      "name": "New Laptop",
+      "target_amount": 1200.00,
+      "current_amount": 600.00,
+      "deadline": "2024-05-01",
+      "description": "MacBook Pro for work",
+      "priority": "medium"
+    }
+  ],
+  "user_profile": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "currency": "USD",
+    "monthly_income": 3500.00,
+    "preferred_categories": ["Food & Dining", "Transportation", "Entertainment"],
+    "financial_goals": ["Save more", "Reduce dining out", "Build emergency fund"]
+  },
+  "analytics": {
+    "total_income": 3800.00,
+    "total_expenses": 1285.50,
+    "net_savings": 2514.50,
+    "savings_rate": 66.17,
+    "top_spending_categories": [
+      {"category": "Food & Dining", "amount": 185.50},
+      {"category": "Entertainment", "amount": 195.00},
+      {"category": "Shopping", "amount": 185.00}
+    ],
+    "monthly_trends": {
+      "income": [3500, 300],
+      "expenses": [1285.50],
+      "savings": [2514.50]
+    }
+  }
+} 
