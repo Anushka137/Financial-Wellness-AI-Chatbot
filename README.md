@@ -6,13 +6,6 @@ A comprehensive AI-powered financial analysis system that provides intelligent i
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
 ![AI Integration](https://img.shields.io/badge/AI-Gemini%20Pro-orange)
 
-### Generated Spending Trend Chart
-![Spending Trend Chart](https://via.placeholder.com/800x500/ffffff/000000?text=Daily+Spending+Trend+Chart)
-
-Professional visualization showing daily spending patterns from January 1 to February 1, 2024.
-
----
-
 ## 🎯 **Project Overview**
 
 This project has evolved from a basic financial chatbot to a **comprehensive AI-powered financial analysis platform** with enhanced MCP integration. The system processes real transaction data, provides intelligent insights, and generates professional visualizations.
