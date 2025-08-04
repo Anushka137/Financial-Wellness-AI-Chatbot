@@ -6,18 +6,6 @@ A comprehensive AI-powered financial analysis system that provides intelligent i
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
 ![AI Integration](https://img.shields.io/badge/AI-Gemini%20Pro-orange)
 
-## 📸 **Live Demo Screenshots**
-
-### Interactive AI Chatbot Interface
-![AI Chatbot Interface](https://via.placeholder.com/800x400/2d3748/ffffff?text=Enhanced+Financial+Wellness+AI+Chatbot)
-
-The chatbot loads 95 transactions and provides natural language interaction for financial queries.
-
-### Chart Generation Process
-![Chart Generation](https://via.placeholder.com/800x200/2d3748/ffffff?text=Chart+Generation+Process)
-
-The system processes user requests and generates professional financial charts automatically.
-
 ### Generated Spending Trend Chart
 ![Spending Trend Chart](https://via.placeholder.com/800x500/ffffff/000000?text=Daily+Spending+Trend+Chart)
 
